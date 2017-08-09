@@ -1,0 +1,22 @@
+<GENERAL>
+	<doMaskTop>0</doMaskTop>
+	<alphaAmpLine>22.95</alphaAmpLine>
+	<redLine>0</redLine>
+	<greenLine>70.125</greenLine>
+	<blueLine>188.7</blueLine>
+	<alphaAmpPart>135.15</alphaAmpPart>
+	<redPart>255</redPart>
+	<greenPart>255</greenPart>
+	<bluePart>255</bluePart>
+<GENERAL/>
+<whiteBackground>0</whiteBackground>
+	<suonoBackVol>0</suonoBackVol>
+	<suonoPresVolMax>0</suonoPresVolMax>
+	<suonoPresMaxArea>1</suonoPresMaxArea>
+<bounceShow>1</bounceShow>
+	<bounceCenterX>1000</bounceCenterX>
+	<bounceCenterY>540</bounceCenterY>
+	<bounceRadius>540</bounceRadius>
+	<bounceAmount>0.2</bounceAmount>
+	<bounceMin>0</bounceMin>
+</GENERAL>

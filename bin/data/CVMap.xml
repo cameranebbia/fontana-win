@@ -1,0 +1,10 @@
+<CV_MAPPING>
+	<CVMapStep>20</CVMapStep>
+	<CVforceMap>5</CVforceMap>
+	<CVradiusMap>62</CVradiusMap>
+	<showPointsMap>0</showPointsMap>
+<CV_MAPPING/>
+	<CvForceMap>140</CvForceMap>
+	<CvRadiusMap>13</CvRadiusMap>
+<useCerchioCvImage>0</useCerchioCvImage>
+</CV_MAPPING>

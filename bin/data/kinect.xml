@@ -1,0 +1,11 @@
+<KINECT_SETTINGS>
+	<steppoint>5</steppoint>
+	<mirror>0</mirror>
+	<farThreshold>172.125</farThreshold>
+	<showPointsKinect>1</showPointsKinect>
+	<forceKinect>11.5</forceKinect>
+	<radiusKinect>120</radiusKinect>
+<KINECT_SETTINGS/>
+	<erode>0</erode>
+	<dilate>0</dilate>
+</KINECT_SETTINGS>

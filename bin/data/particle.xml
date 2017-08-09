@@ -1,0 +1,12 @@
+<PARTICLE_SYSTEM>
+	<timeStep>9.5</timeStep>
+	<particleNeighborhood>32</particleNeighborhood>
+	<particleRepulsion>1</particleRepulsion>
+	<linesize>0.7965</linesize>
+	<particlesize>0.498</particlesize>
+	<wallX>0</wallX>
+	<wallY>0</wallY>
+	<wallW>1920</wallW>
+	<wallH>1200</wallH>
+<PARTICLE_SYSTEM/>
+</PARTICLE_SYSTEM>
